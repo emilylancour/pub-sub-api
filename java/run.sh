@@ -2,7 +2,7 @@
 #
 # A convenience script that runs examples based on locally built JARs. Usage:
 #   mvn clean package
-#   ./run.sh <package-name><class-name>
+#   ./run.sh genericpubsub.Subscribe
 #
 
 EXAMPLE=$1
