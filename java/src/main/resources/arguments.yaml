@@ -12,14 +12,14 @@ PUBSUB_HOST: api.pubsub.salesforce.com
 # Pub/Sub API Host
 PUBSUB_PORT: 7443
 # Your Salesforce Login URL
-LOGIN_URL: null
+LOGIN_URL: https://login.salesforce.com
 
 # For authentication, you can use either username/password or accessToken/tenantId types.
 # Either one of the combinations is required. Please specify `null` values to the unused type.
 # Your Salesforce Username
-USERNAME: null
+USERNAME: emily@brave-moose-7z7r5z.com
 # Your Salesforce Password
-PASSWORD: null
+PASSWORD: Babyzem5!
 # Your Salesforce org Tenant ID
 TENANT_ID: null
 # Your Salesforce Session Token
@@ -51,3 +51,4 @@ PROCESS_CHANGE_EVENT_HEADER_FIELDS: null
 # For ManagedSubscribe.java, either supply the developer name or the ID of ManagedEventSubscription
 MANAGED_SUB_DEVELOPER_NAME: null
 MANAGED_SUB_ID: null
+
